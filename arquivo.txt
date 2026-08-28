@@ -1,0 +1,4 @@
+npx create-expo-app@latest . --template
+npx start 
+npx expo start --web
+npx expo install react-dom react-native-web
